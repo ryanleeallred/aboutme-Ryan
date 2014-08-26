@@ -1,0 +1,24 @@
+body {
+	background-color: #FFFFCC;
+}
+.fampix {
+	float: center;
+	background: url('http://i1353.photobucket.com/albums/q674/vjwalt26/IMG_2190_zpse889e566.jpg') no-repeat center;
+	width: 100%;
+	height: 100%;
+}
+.cellbox {
+	position: fixed;
+
+	top: 0;
+	left: 0;
+
+	margin-top: 20px;
+	margin-left: 20px;
+	
+	background-color: black;
+	width:40%;
+	height: 93%;
+	opacity: 0.4;
+	z-index: 10;
+}
